@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/anitab-org.github.io/static/css/main.69eda509.chunk.css",
+    "main.js": "/anitab-org.github.io/static/js/main.0e250a06.chunk.js",
+    "main.js.map": "/anitab-org.github.io/static/js/main.0e250a06.chunk.js.map",
+    "runtime-main.js": "/anitab-org.github.io/static/js/runtime-main.35556402.js",
+    "runtime-main.js.map": "/anitab-org.github.io/static/js/runtime-main.35556402.js.map",
+    "static/js/2.8a3722d2.chunk.js": "/anitab-org.github.io/static/js/2.8a3722d2.chunk.js",
+    "static/js/2.8a3722d2.chunk.js.map": "/anitab-org.github.io/static/js/2.8a3722d2.chunk.js.map",
+    "index.html": "/anitab-org.github.io/index.html",
+    "precache-manifest.c334e0388b31fd560ad339f8aca9aa81.js": "/anitab-org.github.io/precache-manifest.c334e0388b31fd560ad339f8aca9aa81.js",
+    "service-worker.js": "/anitab-org.github.io/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/anitab-org.github.io/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.8a3722d2.chunk.js.LICENSE.txt": "/anitab-org.github.io/static/js/2.8a3722d2.chunk.js.LICENSE.txt",
+    "static/media/contribute.png": "/anitab-org.github.io/static/media/contribute.552c3589.png",
+    "static/media/linkedin-logo.png": "/anitab-org.github.io/static/media/linkedin-logo.5a653ec3.png",
+    "static/media/logo.png": "/anitab-org.github.io/static/media/logo.45cc4ce0.png",
+    "static/media/our-projects.png": "/anitab-org.github.io/static/media/our-projects.b19b61ad.png",
+    "static/media/placeholder.png": "/anitab-org.github.io/static/media/placeholder.66c6a83d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35556402.js",
+    "static/js/2.8a3722d2.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.0e250a06.chunk.js"
+  ]
+}
