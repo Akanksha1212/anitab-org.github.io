@@ -1,5 +1,5 @@
 {
-  "homepage": "./",
+  "homepage": "https://akanksha1212.github.io/anitab-org.github.io/",
   "name": "anitab-org.github.io",
   "version": "0.1.2",
   "private": true,
@@ -20,7 +20,7 @@
     "test": "react-scripts test --passWithNoTests",
     "eject": "react-scripts eject",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -b develop -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
